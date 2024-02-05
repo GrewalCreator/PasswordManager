@@ -9,7 +9,7 @@
     "default_icon": "./Public/user-interface/images/passwordManagerIcon.png"
   },
   "background": {
-    "service_worker": "./service-worker.js",
+    "service_worker": "./background.js",
     "type": "module"
   },
   "content_scripts": [
